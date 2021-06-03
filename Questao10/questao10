@@ -1,1 +1,4 @@
 
+Crie um programa na linguagem Java para ler dois números e qual operação matemá ca deve ser u lizada. 
+Em seguida o programa deverá apresentar o resultado do cálculo. 
+Toda a operação matemá ca deverá ser executada via thread.
