@@ -1,0 +1,4 @@
+Implemente um mecanismo que verifica se o caixa eletrônico do exercício anterior (13) está sem cédulas para saque, 
+em caso afirma vo, deverá ser inicializada uma thread com o obje vo de alimentar novas cédulas no caixa eletrônico. 
+Durante esse processo o caixa eletrônico ficará indisponível, esperando o terminado de alimentação das cédulas, 
+apenas ao final do processo os clientes podem voltar a u lizar o caixa eletrônico.
